@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+ncplot
+netCDF4
+bs4
+requests
+tensorflow
+bokeh==2.4.0

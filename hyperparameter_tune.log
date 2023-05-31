@@ -1,0 +1,31 @@
+For k = 5 Folds, Augmentaion = False
+Number of epochs = 10, Batch size in each epochs = 100
+RESULTS
+Mean Absolute Error: 26.57 knots
+Root Mean Square Error: 34.25 knots
+
+For k = 5 Folds, Augmentation = False,
+Number of epochs = 10, Batch size in each epochs = 200
+RESULTS
+Mean Absolute Error: 25.67 knots
+Root Mean Square Error: 31.14 knots
+
+
+For k = 3 Folds, Augmentation = True, 
+Number of epochs = 10, Batch size in each epochs = 200
+RESULTS
+Mean Absolute Error: 12.27 knots
+Root Mean Square Error: 16.63 knots
+
+For k = 2 Folds, Augmentation = True, 
+Number of epochs = 15, Batch size in each epochs = 200
+RESULTS
+Mean Absolute Error: 12.3 knots
+Root Mean Square Error: 16.4 knots
+
+For k = 2 Folds, Augmentation = True, 
+Number of epochs = 20, Batch size in each epochs = 200
+Number of epochs = 20, Batch size in each epochs = 200
+RESULTS
+Mean Absolute Error: 12.39 knots
+Root Mean Square Error: 16.72 knots
